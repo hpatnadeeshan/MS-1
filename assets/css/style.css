@@ -1,0 +1,143 @@
+/* Roboto Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Exo Font */
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+
+body {
+    font-family: Roboto;
+}
+
+/* navigation bar */
+
+.nav-link {
+    color: #E6F4F1;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    margin-left: 30px;
+    color: #E6F4F1;
+    /* margin-right: 200px; */
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color: #E59D23;
+}
+
+.nav-link:hover {
+    font-size: 18px;
+}
+
+.active .nav-link {
+    color: #0D2333;
+    font-size: 18px;
+}
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 15px;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+
+.navbar-collapse {
+    background-color: #697D91;
+    border-radius: 8px;
+    flex-grow: 0;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top: 30px; */
+}
+
+.navbar-nav {
+    /* margin-left: auto; */
+    /* margin-top: 20px; */
+}
+
+
+
+.introduction {
+    background-color: #0D2333;
+    width: 100%;
+    height: 100vw;
+    margin-top: -86px;
+}
+
+header {
+    margin-top: 20px;
+}
+
+.jumbotron {
+    margin-top: 86px;
+}
+
+header {
+    z-index: 999;
+}
+
+.space {
+    height: 86px;
+}
+
+/* section */
+
+.jumbotron {
+    color: #E6F4F1;
+    /* width: 40%; */
+    background-color: RGB(105, 125, 145, 0.5);
+    margin-left: 50px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+hr {
+    border-color: #E6F4F1;
+    /* width: 500px; */
+    align-items: center;
+
+}
+
+h1 {
+    color: #E59D23;
+}
+
+.jumbotron .btn-primary {
+    color: #E6F4F1;
+    background-color: #E59D23;
+    border-color: #E59D23;
+}
+
+.jumbotron {
+    width: 40%;
+    display: inline-block;
+}
+
+#carouselExampleCaptions {
+    width: 40%;
+    display: inline-block;
+    /* vertical-align: top; */
+    margin-left: 100px;
+    /* background-color: RGB(105, 125, 145, 0.5); */
+    /* margin-top: 200px; */
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.85);
+    color: #E59D23;
+    padding: 10px;
+    width: 100%;
+    left: 0;
+    position: absolute;
+    bottom: 0;
+}
+
+#carouselExampleCaptions h2 {
+    color: #E6F4F1;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
