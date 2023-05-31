@@ -196,7 +196,7 @@ body {
 
 
 /* ----------------------------------------Work History */
-/* 
+
 .history-heading {
     color: #fafafa;
     margin-bottom: 50px;
@@ -241,9 +241,17 @@ body {
 
 .history-items {
     margin-bottom: 30px;
-} */
+}
 
+.tab-pane {
+    margin-top: 20px;
+}
 
+.progress {
+    margin: 30px;
+    height: 20px;
+
+}
 
 /* footer */
 
