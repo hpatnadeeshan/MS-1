@@ -13,6 +13,12 @@ body {
     flex-direction: column;
 }
 
+section {
+    /* max-height: calc(100vh - 100px- 175px); */
+    /* Adjust the value (100px) based on your footer's height */
+    /* padding: 20px; */
+}
+
 .home {
     background-color: #0D2333;
 }
@@ -135,8 +141,9 @@ body {
 
 .jumbotron {
     color: #E6F4F1;
-    background-color: RGB(105, 125, 145, 0.5);
+    /* background-color: RGB(105, 125, 145, 0.5); */
     margin-left: 50px;
+    background-color: transparent;
     border-radius: 8px;
     text-align: center;
     /* margin-top: 56px; */
@@ -253,6 +260,82 @@ body {
 
 }
 
+/* ----------------------------------------contact */
+
+.contact-form {
+    /* background-color: #f2f2f2; */
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact-form h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.contact-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background-color: #45a049;
+}
+
+.contact-details {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.contact-details h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.contact-details h3 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* display: flex; */
+}
+
+.contact-details p {
+    display: flex;
+    margin-bottom: 15px;
+    margin-left: 50px;
+}
+
+.contact-details a {
+    margin-right: auto;
+}
+
+.contact-details p i {
+    margin-right: 5px;
+}
+
 /* footer */
 
 .cv-download {
@@ -281,15 +364,18 @@ body {
     text-decoration: underline;
 }
 
-.transparent-footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    display: flex;
-    align-items: flex-end;
-    max-height: 110px;
-    padding-bottom: 10px;
+@media (min-width: 992px) {
+    .transparent-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        display: flex;
+        align-items: flex-end;
+        max-height: 110px;
+        padding-bottom: 10px;
+    }
 }
+
 
 
 .direction-button {
