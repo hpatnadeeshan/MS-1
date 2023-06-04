@@ -117,7 +117,6 @@ section {
         top: 115px;
         left: 0;
         right: 0;
-        /* bottom: 0; */
         z-index: 1000;
         background-color: rgba(0, 0, 0, 0.5);
 
@@ -141,19 +140,18 @@ section {
 
 .jumbotron {
     color: #E6F4F1;
-    /* background-color: RGB(105, 125, 145, 0.5); */
     margin-left: 50px;
     background-color: transparent;
     border-radius: 8px;
     text-align: center;
-    /* margin-top: 56px; */
+
     padding-top: 40px;
     display: inline-block;
 }
 
 .jumbotron hr {
     border-color: #E6F4F1;
-    /* align-items: center; */
+
 }
 
 .jumbotron h1 {
@@ -259,6 +257,105 @@ section {
     height: 20px;
 
 }
+
+/* services */
+section .services {
+    background-color: #E6F4F1;
+    display: flex;
+    flex-direction: column;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    padding: 20px 40px 20px;
+    margin: 0 30px;
+}
+
+.service-column {
+    padding: 0;
+}
+
+.service {
+    width: 95%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.service i {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.services h2 {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.service h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.service p {
+    font-size: 16px;
+    line-height: 1.5;
+
+}
+
+.hire-me {
+    margin-top: 20px;
+    background-color: red;
+    align-items: center;
+}
+
+/* testimonials */
+
+.testimonial-section {
+    margin-bottom: 20px;
+    position: relative;
+
+}
+
+.testimonial-section h2 {
+    font-size: 24px;
+    color: #E6F4F1;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.testimonial-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 7px;
+    transition: transform 0.3s ease-in-out;
+    position: relative;
+
+}
+
+.testimonial {
+
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.testimonial h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.testimonial p {
+    font-size: 14px;
+    color: #888;
+    padding: 0 5px 5px 5px;
+    margin-bottom: 5px;
+}
+
+.testimonial-controls {
+    text-align: center;
+    margin-top: 10px;
+}
+
 
 /* ----------------------------------------contact */
 
