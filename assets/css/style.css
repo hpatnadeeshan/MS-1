@@ -258,6 +258,23 @@ section {
 
 }
 
+/* portfolio */
+
+.portfolio h2 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.projects {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.pagination {
+    justify-content: end;
+    padding-right: 15px;
+}
+
 /* services */
 section .services {
     background-color: #E6F4F1;
