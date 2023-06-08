@@ -46,28 +46,27 @@ section {
     width: 175px;
 }
 
-.navbar-light .navbar-nav .nav-link {
+.navbar-nav .nav-link {
     color: #E6F4F1;
 }
 
-.navbar-light .navbar-nav .nav-link:hover {
+.navbar-nav .nav-link:hover {
     color: #E59D23;
-}
-
-.navbar-light .navbar-nav .nav-link:hover {
     font-size: 18px;
 }
 
-.navbar-light .navbar-nav .active .nav-link {
+
+.navbar-nav .active .nav-link {
     color: #0D2333;
     font-size: 18px;
+    font-weight: 700;
 }
 
 .bg-light {
     background-color: transparent !important;
 }
 
-.navbar-light .navbar-toggler {
+.navbar-dark .navbar-toggler {
     margin-right: 10px;
     margin-top: 20px;
 }
@@ -134,20 +133,34 @@ section {
     .navbar-collapse ul.navbar-nav li {
         margin-bottom: 1rem;
     }
+
+    .logo {
+        margin-left: 70px;
+    }
 }
 
 /* Section-introduction */
 
 .jumbotron {
     color: #E6F4F1;
-    margin-left: 50px;
+
     background-color: transparent;
     border-radius: 8px;
     text-align: center;
-
+    margin-left: 25px;
+    margin-right: 25px;
     padding-top: 40px;
     display: inline-block;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 10px;
 }
+
+/* @media (min-width: 992px) {
+    .jumbotron {
+        margin-left: 50px;
+    }
+} */
 
 .jumbotron hr {
     border-color: #E6F4F1;
@@ -162,13 +175,13 @@ section {
     color: #E6F4F1;
     background-color: #E59D23;
     border-color: #E59D23;
+    margin-top: 30px;
 }
 
 #carouselExampleCaptions {
     display: inline-block;
-    margin-left: 100px;
-    margin-top: 50px;
-    margin-right: 50px;
+    margin: 50px;
+
 }
 
 .carousel-caption {
@@ -465,7 +478,7 @@ section .services {
     color: #ffffff;
     text-decoration: none;
     font-size: 16px;
-    /* margin-right: 10px; */
+    margin-bottom: 30px;
     margin-left: 10px;
 
 }
@@ -488,6 +501,8 @@ section .services {
         max-height: 110px;
         padding-bottom: 10px;
     }
+
+
 }
 
 
