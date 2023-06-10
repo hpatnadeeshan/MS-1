@@ -13,12 +13,6 @@ body {
     flex-direction: column;
 }
 
-section {
-    /* max-height: calc(100vh - 100px- 175px); */
-    /* Adjust the value (100px) based on your footer's height */
-    /* padding: 20px; */
-}
-
 .home {
     background-color: #0D2333;
 }
@@ -156,12 +150,6 @@ section {
     padding-bottom: 10px;
 }
 
-/* @media (min-width: 992px) {
-    .jumbotron {
-        margin-left: 50px;
-    }
-} */
-
 .jumbotron hr {
     border-color: #E6F4F1;
 
@@ -225,6 +213,7 @@ section {
     position: relative;
     color: #fafafa;
     border-left: 1px solid;
+    margin-left: 20px;
 }
 
 .timeline-item p {
@@ -270,6 +259,40 @@ section {
     height: 20px;
 
 }
+
+@media (max-width: 991.98px) {
+    .image-container {
+        margin: 0 50px 120px;
+    }
+
+    .tab-area {
+        margin-bottom: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+.nav {
+    margin-right: 20px;
+}
+
+#education h3,
+#education p {
+    color: #E6F4F1;
+}
+
+#education h3 {
+    margin-top: 20px;
+}
+
+#education p {
+    margin-bottom: 6px;
+}
+
+#education ul {
+    margin-top: 3rem;
+}
+
 
 /* portfolio */
 
