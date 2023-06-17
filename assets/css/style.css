@@ -38,12 +38,6 @@ body {
     object-position: center top;
 }
 
-/* @media (max-width: 991.98px) {
-    .background-container {
-        height: auto;
-        min-height: 100vh;
-    }
-} */
 .content a {
     text-align: center;
     align-content: center;
@@ -170,7 +164,7 @@ body {
     }
 }
 
-/* Section-introduction */
+/* Section */
 
 .jumbotron {
     color: #E6F4F1;
@@ -187,10 +181,6 @@ body {
     padding-bottom: 10px;
 }
 
-/* .jumbotron hr {
-    border-color: #E6F4F1;
-
-} */
 
 .jumbotron h1 {
     color: #E59D23;
@@ -217,9 +207,38 @@ body {
     }
 }
 
+@media (min-width: 992px) {
+    .content {
+        margin-left: -25px;
+        margin-right: 25px;
+    }
+
+    .content .lead {
+        text-align: left;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .row-container {
+        margin-top: 200px;
+
+    }
+
+    .content {
+        padding-left: 40px;
+        padding-right: 40px;
+        margin-top: 40px;
+    }
+
+
+}
+
+
 .content .lead {
     color: #E6F4F1;
     font-size: 2rem;
+
+
     /* background-color: black; */
 }
 
@@ -250,6 +269,13 @@ body {
     text-transform: uppercase;
     margin-bottom: 50px;
 } */
+
+/* @media (min-width: 992px) {
+    .introduction {
+        padding-right: 40px;
+    }
+} */
+
 
 /* about section */
 .profile-image {
@@ -587,7 +613,14 @@ section .services {
     padding-bottom: 10px;
 }
 
-
+@media (max-width: 767.98px) {
+    .transparent-footer {
+        position: relative;
+        align-items: flex-end;
+        max-height: unset;
+        padding-bottom: unset;
+    }
+}
 
 .direction-button {
     width: 40px;
