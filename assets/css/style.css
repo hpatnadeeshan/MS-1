@@ -181,6 +181,26 @@ body {
     padding-bottom: 10px;
 }
 
+@media (max-width: 767.98px) {
+    .jumbotron {
+        padding-top: 0;
+    }
+
+    .background-img {
+        margin-top: 100px;
+    }
+
+    .content {
+        margin-bottom: 100px;
+    }
+
+    .content .lead {
+
+        font-size: 1.5rem;
+    }
+
+
+}
 
 .jumbotron h1 {
     color: #E59D23;
@@ -233,10 +253,15 @@ body {
 
 }
 
+@media (min-width: 768px) {
+    .content .lead {
+        font-size: 2rem;
+    }
+}
 
 .content .lead {
     color: #E6F4F1;
-    font-size: 2rem;
+
 
 
     /* background-color: black; */
