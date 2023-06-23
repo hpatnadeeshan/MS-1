@@ -446,6 +446,8 @@ body {
 .portfolio h2 {
     text-transform: uppercase;
     margin-bottom: 20px;
+    text-align: center;
+    color: #F0EDFF;
 }
 
 .projects {
@@ -456,6 +458,55 @@ body {
 .pagination {
     justify-content: end;
     padding-right: 15px;
+}
+
+.card-body {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.card-body h5 {
+
+    color: #00c893;
+}
+
+@media (max-width: 767.98px) {
+    .card-space {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+
+
+@media (min-width: 992px) {
+    @media (max-width: 1280px) {
+        .card-space {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+
+        .portfolio .container-fluid {
+            margin-top: -20px;
+        }
+    }
+}
+
+.card-space {
+    text-align: center;
+}
+
+.card-text:last-child {
+    height: 72px;
+    color: #8F8CAF;
+}
+
+.list-group-item {
+    padding-left: 15px;
+    padding-right: 15px;
+
+    color: #8F8CAF;
+    text-align: center;
 }
 
 /* services */
