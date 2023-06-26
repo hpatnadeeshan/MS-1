@@ -510,18 +510,20 @@ body {
 }
 
 /* services */
-section .services {
+.services-section {
     background-color: #E6F4F1;
     display: flex;
     flex-direction: column;
-    background-color: #f2f2f2;
+    /* background-color: #f2f2f2; */
     border-radius: 10px;
     padding: 20px 40px 20px;
-    margin: 0 30px;
+    margin: 0;
+    margin-bottom: 75px;
+    /* margin: 0 30px; */
 }
 
 @media (max-width: 991.98px) {
-    section .services {
+    .services-section {
         margin: 0;
         margin-bottom: 75px;
     }
@@ -543,7 +545,7 @@ section .services {
     margin-bottom: 20px;
 }
 
-.services h2 {
+.services-section h2 {
     text-transform: uppercase;
     margin-bottom: 50px;
 }
@@ -561,6 +563,7 @@ section .services {
 
 .hire-me {
     margin-top: 20px;
+    margin-bottom: 20px;
     background-color: red;
     align-items: center;
 }
@@ -570,7 +573,10 @@ section .services {
 .testimonial-section {
     margin-bottom: 20px;
     position: relative;
-    margin-left: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
 
 }
 
@@ -597,7 +603,7 @@ section .services {
 
 .testimonial-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 7px;
     transition: transform 0.3s ease-in-out;
     position: relative;
@@ -623,7 +629,7 @@ section .services {
     }
 
     .testimonial-section h2 {
-        text-align: center;
+        text-align: left;
         padding-left: 20px;
         padding-right: 20px;
     }
@@ -631,9 +637,9 @@ section .services {
 }
 
 @media (min-width: 767.98px) {
-    .services {
-        margin-left: 15px;
-        margin-right: 15px;
+    .services-section {
+        /* margin-left: 15px;
+        margin-right: 15px; */
     }
 }
 
@@ -641,6 +647,9 @@ section .services {
 
     background-color: #f9f9f9;
     border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
     text-align: center;
 }
 
@@ -649,20 +658,33 @@ section .services {
     font-size: 18px;
     margin-bottom: 10px;
     margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .testimonial p {
-    font-size: 14px;
+    font-size: 20px;
     color: #888;
-    padding: 0 5px 5px 5px;
-    margin-bottom: 5px;
+    padding: 0 5px 10px 5px;
+    margin-bottom: 10px;
+    font-style: italic;
+
 }
 
-.testimonial-controls {
-    text-align: center;
-    margin-top: 10px;
+
+
+.testimonial img {
+    width: 50px;
+
+    height: 50px;
+    border-radius: 50%;
 }
 
+.testimonial-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
 
 /* ----------------------------------------contact */
 
@@ -776,6 +798,13 @@ section .services {
     align-items: flex-end;
     max-height: 110px;
     padding-bottom: 10px;
+}
+
+.services .transparent-footer {
+    position: relative;
+    align-items: flex-end;
+    max-height: unset;
+    padding-bottom: unset;
 }
 
 @media (max-width: 991.98px) {
