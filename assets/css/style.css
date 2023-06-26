@@ -520,6 +520,14 @@ section .services {
     margin: 0 30px;
 }
 
+@media (max-width: 991.98px) {
+    section .services {
+        margin: 0;
+        margin-bottom: 75px;
+    }
+
+}
+
 .service-column {
     padding: 0;
 }
@@ -562,7 +570,14 @@ section .services {
 .testimonial-section {
     margin-bottom: 20px;
     position: relative;
+    margin-left: 20px;
 
+}
+
+@media (max-width: 991.98px) {
+    .testimonial-section {
+        margin-left: 0;
+    }
 }
 
 .testimonial-section h2 {
@@ -572,6 +587,14 @@ section .services {
     margin-bottom: 40px;
 }
 
+@media (max-width: 991.98px) {
+
+
+    .testimonial-section h2 {
+        /* margin-bottom: 20px; */
+    }
+}
+
 .testimonial-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -579,6 +602,39 @@ section .services {
     transition: transform 0.3s ease-in-out;
     position: relative;
 
+}
+
+
+
+@media (max-width: 767.98px) {
+    .testimonial-grid {
+        display: block;
+
+    }
+
+    .testimonial-section {
+        padding-left: 0px;
+        padding-right: 0px;
+
+    }
+
+    .service-column {
+        margin-bottom: 40px;
+    }
+
+    .testimonial-section h2 {
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+}
+
+@media (min-width: 767.98px) {
+    .services {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
 }
 
 .testimonial {
@@ -726,7 +782,8 @@ section .services {
 
 
     .about .transparent-footer,
-    .portfolio .transparent-footer {
+    .portfolio .transparent-footer,
+    .services .transparent-footer {
         position: relative;
         align-items: flex-end;
         max-height: unset;
