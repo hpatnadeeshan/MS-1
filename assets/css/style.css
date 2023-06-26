@@ -148,7 +148,7 @@ body {
         left: 0;
         right: 0;
         z-index: 1000;
-        background-color: rgba(0, 0, 0, 0.5);
+        background-color: rgba(0, 0, 0, 0.9);
 
     }
 
@@ -167,6 +167,10 @@ body {
 
     .logo {
         margin-left: 70px;
+    }
+
+    .navbar-nav .active .nav-link {
+        color: #E59D23;
     }
 }
 
