@@ -515,10 +515,10 @@ body {
 
 /* services */
 .services-section {
-    background-color: #E6F4F1;
+    background-color: #FEE9FF;
     display: flex;
     flex-direction: column;
-    /* background-color: #f2f2f2; */
+
     border-radius: 10px;
     padding: 20px 40px 20px;
     margin: 0;
@@ -562,14 +562,22 @@ body {
 .service p {
     font-size: 16px;
     line-height: 1.5;
+    color: #8C779B;
 
 }
 
 .hire-me {
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: red;
+    background-color: #E59D23;
     align-items: center;
+    border-color: #00C9AF;
+}
+
+.btn-primary:hover {
+
+    background-color: #C2ABD2;
+    border-color: #00C9AF;
 }
 
 /* testimonials */
@@ -592,7 +600,7 @@ body {
 
 .testimonial-section h2 {
     font-size: 24px;
-    color: #E6F4F1;
+    color: #FEE9FF;
     text-transform: uppercase;
     margin-bottom: 40px;
 }
@@ -608,7 +616,7 @@ body {
 .testimonial-grid {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
-    gap: 7px;
+    gap: 15px;
     transition: transform 0.3s ease-in-out;
     position: relative;
 
@@ -649,7 +657,7 @@ body {
 
 .testimonial {
 
-    background-color: #f9f9f9;
+    background-color: #FEE9FF;
     border-radius: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -659,6 +667,7 @@ body {
 
 
 .testimonial h3 {
+    color: #8C779B;
     font-size: 18px;
     margin-bottom: 10px;
     margin-top: 10px;
@@ -668,10 +677,11 @@ body {
 
 .testimonial p {
     font-size: 20px;
-    color: #888;
+    color: #00C9AF;
     padding: 0 5px 10px 5px;
     margin-bottom: 10px;
     font-style: italic;
+    text-align: left;
 
 }
 
@@ -681,6 +691,8 @@ body {
     width: 50px;
 
     height: 50px;
+    margin-top: 10px;
+    margin-right: 10px;
     border-radius: 50%;
 }
 
