@@ -140,6 +140,11 @@ body {
 
 }
 
+.services .social-icon {
+    color: #fee9ff;
+
+}
+
 .social-icon:hover {
     color: #697D91;
 }
@@ -479,9 +484,10 @@ h3 {
 
 .portfolio h2 {
     text-transform: uppercase;
-    margin-bottom: 20px;
-    text-align: center;
+    margin-bottom: 50px;
+    text-align: left;
     color: #F0EDFF;
+    padding-left: 30px;
 }
 
 .projects {
@@ -636,7 +642,7 @@ h3 {
 }
 
 .testimonial-section h2 {
-    font-size: 24px;
+    font-size: 32px;
     color: #FEE9FF;
     text-transform: uppercase;
     margin-bottom: 40px;
