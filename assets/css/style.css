@@ -328,21 +328,32 @@ body {
 /* ----------------------------------------Work History */
 
 .history-heading {
-    color: #fafafa;
+    color: #e2f0ff;
     margin-bottom: 50px;
 }
 
 .timeline-item {
-    padding: 4em 2em 0em 2em;
+    /* padding: 4em 2em 0em 2em; */
+    padding: 60px 2em 0em 2em;
     position: relative;
-    color: #fafafa;
+    color: #e2f0ff;
     border-left: 1px solid;
     margin-left: 20px;
+    border-color: #D8A31A;
 }
 
 .timeline-item p {
     padding: 0;
     margin: 0;
+    color: #626D89;
+}
+
+#education .period {
+    color: #626D89;
+}
+
+.timeline-item h4 {
+    font-size: 1.15rem;
 }
 
 .timeline-item:before {
@@ -367,7 +378,8 @@ body {
     left: -6px;
     border-radius: 12px;
     content: '';
-    background: #fafafa;
+    background: #D8A31A;
+
 }
 
 .history-items {
@@ -397,16 +409,21 @@ body {
 }
 
 .nav {
-    margin-right: 20px;
+    /* margin-right: 200px; */
+    width: 80%;
 }
 
 #education h3,
 #education p {
-    color: #E6F4F1;
+    color: #e2f0ff;
 }
 
 
-#education h3 {
+.timeline-item h4 {
+    font-size: 1rem;
+}
+
+h3 {
     margin-top: 20px;
     font-size: 1.5rem;
 }
@@ -420,6 +437,10 @@ body {
     list-style: none;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.nav-tabs .nav-link {
+    color: #D8A31A;
 }
 
 .bullet-list {
@@ -441,8 +462,12 @@ body {
     transform: translateY(100%);
     width: 10px;
     height: 10px;
-    background-color: white;
+    background-color: #D8A31A;
     border-radius: 50%;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #e59d23;
 }
 
 /* portfolio */
@@ -899,6 +924,7 @@ body {
         padding: 60px 2em 0em 2em;
     }
 } */
+
 
 .direction-button {
     width: 40px;
