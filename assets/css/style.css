@@ -33,15 +33,21 @@ body {
 }
 
 
-
 .background-img {
     position: absolute;
-    top: 0;
+    top: 160px;
     left: 0;
-    width: 100%;
+    width: 75%;
     height: auto;
     object-fit: cover;
     object-position: center top;
+}
+
+@media (max-width: 991.98px) {
+    .background-img {
+        top: 0;
+        width: 100%;
+    }
 }
 
 .content a {
@@ -174,6 +180,7 @@ body {
 
     .logo {
         margin-left: 70px;
+        /* width: 100%; */
     }
 
     .navbar-nav .active .nav-link {
@@ -205,6 +212,7 @@ body {
 
     .background-img {
         margin-top: 100px;
+        width: 100%;
     }
 
     .content {
