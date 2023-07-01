@@ -976,10 +976,12 @@ h3 {
     }
 } */
 
+/* arrow buttons */
 
 .direction-button {
-    width: 40px;
-    height: 40px;
+    width: 45px;
+    height: 45px;
+    border: 1px solid #E6F4F1;
     border-radius: 50%;
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
@@ -1028,8 +1030,52 @@ h3 {
     margin-bottom: auto;
 }
 
-.footer-content {
+.footer-content .arrow-buttons {
     display: flex;
     margin-bottom: 16px;
     justify-content: center;
+}
+
+@media (max-width: 767.98px) {
+    .footer-content .arrow-buttons {
+        display: none;
+
+    }
+}
+
+
+.arrow-buttons .fa-solid,
+.icon-buttons .fa-solid,
+.icon-buttons .fa-regular {
+    font-size: 1.5rem;
+    color: #E6F4F1;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 1px solid #E6F4F1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 20px;
+
+
+}
+
+.footer-content .icon-buttons {
+    display: flex;
+    margin-bottom: 16px;
+    justify-content: center;
+}
+
+@media (min-width: 767.98px) {
+    .footer-content .icon-buttons {
+        display: none;
+
+    }
+}
+
+.icon-buttons .fa-address-card {
+
+    margin-right: 0;
 }
