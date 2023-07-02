@@ -3,12 +3,38 @@
 
 Project - User-Centric Frontend Development - Code Institute.
 
-## Showcase
+## Site Goals
+
+Creating a personal portfolio site allows me to showcase my skills and expertise as a web developer, highlighting my past projects, technical abilities, and design skills to demonstrate my value and differentiate myself from other developers. It helps me build my personal brand, establishing and expanding my online presence as a web developer, increasing visibility and attracting more opportunities for work or collaboration. By including contact information and social media profiles, I make it easy for others to reach out and connect, expanding my network of professional contacts and potential clients. Furthermore, my personal portfolio site serves as a powerful marketing tool, generating leads and attracting new business by showcasing my skills and past work to catch the attention of potential clients or employers seeking someone with my specific skills and experience. Ultimately, it helps me establish credibility and trust by providing detailed information about my expertise and experience, including testimonials from satisfied clients or colleagues.
+
 ## UX
+
 ### User Stories
+
+#### As a Employer or Client
+
+1. I want to see his work experience & educational background.
+2. I want  know his technical skills.
+3. I want go see his past projects.
+4. I want to know what kind of services he offers.
+5. I want a proof of his past work and quality of work. Need testimonials.
+6. I want to to contact him.
+7. I want to send my details to him.
+8. I want to download his CV.
+
+#### As the site Administrator
+
+1. I want to update work experince and educational background.
+2. I want to add my latest projects to the portfolio.
+3. I want to add or remove testimonials which I get from clients.
+4. I need to update the CV that links to the website.
+5. I need to see the messeges that coming from clients and Employers.
+
 ### Strategy
+
 #### Technical Capabilites
-####  Target customer segment
+
+#### Target customer segment
 
 1. Potential Clients: I am looking for new clients for my web development services, my target customer segment may be potential clients who are seeking someone with my specific skills and experience. These clients can range from individuals to small businesses or larger companies in need of a web developer for a particular project or ongoing work.
 
@@ -61,6 +87,7 @@ B2C Audience:
 4. Content vs. Loading Time: I need to strike a balance between providing engaging and informative content and ensuring fast loading times. While high-quality content is important to showcase my skills and expertise, I optimize the site's performance to deliver a seamless browsing experience for users.
 
 ### Scope
+
 #### Product requirements
 
 1. User Interface (UI) requirements: This is related to the design, layout, and navigation of the website. It ensures that the website is visually appealing, easy to use, and intuitive.
@@ -78,6 +105,7 @@ B2C Audience:
 7. Accessibility requirements:It ensures to the accessibility of the website to people with disabilities.
 
 ### Structure
+
 #### Information architecture
 
 1. Home page: The home page provides a brief overview of my skills and experience as a web developer. It includes links to other sections of the website, such as my portfolio, about me, Services page and contact pages.
@@ -98,7 +126,7 @@ Visual Elements:
 
 1. Color scheme: Chose a color palette that reflects my personal brand and the type of services I offer.
 
-2. Typography:
+2. Typography: Chose a visual apealing fonts, bullets and letter style.
 
 3. Images and graphics: Incorporate high-quality images of my work, portfolio, or professional photo to add visual interest to the site.
 
@@ -112,23 +140,35 @@ Navigational Elements:
 
 2. Navigation menu: Use a clear and concise navigation menu that is easy to understand and navigate.
 
-3. Breadcrumbs: Included breadcrumbs to help users understand their location within the site and navigate back to previous pages.
+3. Footer: Include a footer with additional navigation links, copyright information, link to download my CV and contact details.
 
-4. Footer: Include a footer with additional navigation links, copyright information, link to download my CV and contact details.
+4. Call-to-action buttons: Used clear and prominent call-to-action buttons throughout the site to encourage users to contacting me.
 
-5. Call-to-action buttons: Used clear and prominent call-to-action buttons throughout the site to encourage users to contacting me.
-
-#### New wireframes:
+#### Mobile view wireframes:
 
 [Landing page Mobile first]()
 
-[Landing page Desktop]()
+[About page Mobile first]()
 
-#### Original Wireframes:
+[Portfolio page Mobile first]()
 
-[Landing page mobile]()
+[Services page Mobile first]()
+
+[Contact page Mobile first]()
+
+#### Desktop view wireframes:
 
 [Landing page desktop]()
+
+[About page desktop]()
+
+[Portfolio page desktop]()
+
+[Services page desktop]()
+
+[Contact page desktop]()
+
+
 ## Features
 
 ### Existing Features
@@ -149,13 +189,11 @@ Navigational Elements:
 8. SEO Optimization: The website optimized for search engines to improve visibility and attract more traffic to the site.
 
 9. Social Media Integration: The website have social media integration, allowing visitors to share and follow me on different social media platforms.
- 
 10. Analytics: The website have analytics integration, allowing me to track website traffic, user behavior, and other key metrics.
-
-14. Security: The website is secured with SSL certification.
-
+11. Security: The website is secured with SSL certification.
 
 ### Features Left to Implement
+
 ## Documentation
 
 [Documentation](https://linktodocumentation)
