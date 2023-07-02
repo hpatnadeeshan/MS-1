@@ -35,7 +35,8 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-5 col-md-3 d-flex justify-content-center">
-                    <a href="#"><img src="./assets/images/logo.png" alt="logo" class="logo"></a>
+                    <a href="./index.html" aria-label="Home"><img src="./assets/images/logo.png" alt="logo"
+                            class="logo"></a>
                 </div>
                 <div class="col-3 col-md-6">
                     <nav class="navbar navbar-expand-md bg-transparent">
@@ -66,15 +67,15 @@
                     <div class="social-icons row">
                         <a href="mailto:hpatnadeeshan@gmail.com" target="_blank" class="social-icon">
                             <i class="fab fa-google"></i>
-                            <span class="visually-hidden">Email</span>
+                            <span class="sr-only">Email</span>
                         </a>
                         <a href="https://www.linkedin.com/in/tharindu-nadeeshan" target="_blank" class="social-icon">
                             <i class="fab fa-linkedin"></i>
-                            <span class="visually-hidden">LinkedIn</span>
+                            <span class="sr-only">LinkedIn</span>
                         </a>
                         <a href="https://www.facebook.com/nadeeshan.37" target="_blank" class="social-icon">
                             <i class="fab fa-facebook"></i>
-                            <span class="visually-hidden">Facebook</span>
+                            <span class="sr-only">Facebook</span>
                         </a>
                     </div>
                     <button class="navbar-toggler row ml-auto d-md-none" type="button" data-toggle="collapse"
@@ -95,24 +96,27 @@
                         <h2>Contact Us</h2>
                         <div class="row">
                             <div class="col">
-                                <input type="text" class="form-control" placeholder="First name" required>
+                                <input type="text" class="form-control" placeholder="First name" required
+                                    aria-label="First name">
                             </div>
                             <div class="col">
-                                <input type="text" class="form-control" placeholder="Last name" required>
+                                <input type="text" class="form-control" placeholder="Last name" required
+                                    aria-label="Last name">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col">
-                                <input type="email" class="form-control" placeholder="Email" required>
+                                <input type="email" class="form-control" placeholder="Email" required
+                                    aria-label="Email">
                             </div>
                             <div class="col">
-                                <input type="text" class="form-control" placeholder="Phone">
+                                <input type="text" class="form-control" placeholder="Phone" aria-label="Phone">
                             </div>
                         </div>
                         <div class="form-group">
 
                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"
-                                placeholder="Message"></textarea>
+                                placeholder="Message" aria-label="Message"></textarea>
                         </div>
                         <button type="submit">Send Message</button>
                     </form>
