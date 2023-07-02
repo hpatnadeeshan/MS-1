@@ -73,7 +73,7 @@ body {
     background-color: #BF95B9;
 }
 
-/* navigation bar */
+/* ---------------------navigation bar-------------------- */
 
 
 .logo {
@@ -152,7 +152,8 @@ body {
     color: #697D91;
 }
 
-/* full width menu */
+
+/* ---------------------full width menu-------------------- */
 
 @media (max-width: 767.98px) {
     .navbar-collapse {
@@ -188,7 +189,9 @@ body {
     }
 }
 
-/* Section */
+
+/* ---------------------section-landing page-------------------- */
+
 
 .jumbotron {
     color: #E6F4F1;
@@ -299,8 +302,8 @@ body {
     margin-top: 30px;
 }
 
+/* ---------------------about page-------------------- */
 
-/* about section */
 .profile-image {
     width: 100%;
     margin-top: -75px;
@@ -313,7 +316,7 @@ body {
 }
 
 
-/* ----------------------------------------Work History */
+/*Work History */
 
 .history-heading {
     color: #e2f0ff;
@@ -475,7 +478,7 @@ h3 {
     border-bottom: 1px solid #e59d23;
 }
 
-/* portfolio */
+/* ---------------------portfolio-------------------- */
 
 .portfolio h2 {
     text-transform: uppercase;
@@ -552,7 +555,8 @@ h3 {
     text-align: center;
 }
 
-/* services */
+/* ---------------------services-------------------- */
+
 .services-section {
     background-color: #FEE9FF;
     display: flex;
@@ -619,7 +623,8 @@ h3 {
     color: #E59D23;
 }
 
-/* testimonials */
+
+/* ---------------------testimonials-------------------- */
 
 .testimonial-section {
     margin-bottom: 20px;
@@ -725,7 +730,8 @@ h3 {
     margin-bottom: 10px;
 }
 
-/* ----------------------------------------contact */
+
+/* ---------------------contact-------------------- */
 
 .contact-form {
     /* background-color: #f2f2f2; */
@@ -826,7 +832,8 @@ h3 {
     margin-right: 15px;
 }
 
-/* footer */
+
+/* ---------------------footer-------------------- */
 
 .cv-download {
     margin-top: auto;
@@ -898,9 +905,6 @@ h3 {
 
 
 }
-
-
-
 
 
 /* arrow buttons */
@@ -1011,6 +1015,7 @@ h3 {
     }
 }
 
+/* icon buttons */
 
 .arrow-buttons .fa-solid,
 .icon-buttons .fa-solid,
