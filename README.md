@@ -144,30 +144,32 @@ Navigational Elements:
 
 4. Call-to-action buttons: Used clear and prominent call-to-action buttons throughout the site to encourage users to contacting me.
 
-#### Mobile view wireframes:
+#### Mobile view wireframes
 
-[Landing page Mobile first]()
+[Landing page Mobile first](./assets/wireframes/Home-mobile-min.jpg)
 
-[About page Mobile first]()
+[About page Mobile first](./assets/wireframes/about-mobile-min.jpg)
 
-[Portfolio page Mobile first]()
+[Portfolio page Mobile first](./assets/wireframes/portfolio-mobile-min.jpg)
 
-[Services page Mobile first]()
+[Services page Mobile first](./assets/wireframes/services-mobile-min.jpg)
 
-[Contact page Mobile first]()
+[Contact page Mobile first](./assets/wireframes/contact-mobile-min.jpg)
 
-#### Desktop view wireframes:
+#### Desktop view wireframes
 
-[Landing page desktop]()
+[Landing page desktop](./assets/wireframes/home-desktop-min.jpg)
 
-[About page desktop]()
+[About page desktop](./assets/wireframes/about-desktop1-min.jpg)
+[About page desktop](./assets/wireframes/about-desktop2-min.jpg)
 
-[Portfolio page desktop]()
+[Portfolio page desktop](./assets/wireframes/portfolio-desktop-min.jpg)
 
-[Services page desktop]()
+[Services page desktop](./assets/wireframes/services-desktop-min.jpg)
 
-[Contact page desktop]()
+[Services page desktop](./assets/wireframes/testimonials-desktop-min.jpg)
 
+[Contact page desktop](./assets/wireframes/contact-desktop-min.jpg)
 
 ## Features
 
