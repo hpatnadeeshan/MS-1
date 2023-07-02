@@ -496,8 +496,9 @@ h3 {
 }
 
 .card-body {
-    padding-left: 15px;
-    padding-right: 15px;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    padding: 10px 10px;
 }
 
 .card-body h5 {
@@ -1095,16 +1096,4 @@ h3 {
 .arrow-buttons a:hover .tooltip {
     visibility: visible;
     opacity: 1;
-}
-
-
-.visually-hidden {
-    /* visibility: hidden; */
-    position: absolute !important;
-    clip: rect(1px, 1px, 1px, 1px);
-    padding: 0 !important;
-    border: 0 !important;
-    height: 1px !important;
-    width: 1px !important;
-    overflow: hidden;
 }
