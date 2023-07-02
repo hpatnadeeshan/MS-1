@@ -299,33 +299,6 @@ body {
     margin-top: 30px;
 }
 
-/* #carouselExampleCaptions {
-    display: inline-block;
-    margin: 50px;
-}
-
-.carousel-caption {
-    background-color: rgba(0, 0, 0, 0.85);
-    color: #E59D23;
-    padding: 10px;
-    width: 100%;
-    left: 0;
-    position: absolute;
-    bottom: 0;
-}
-
-#carouselExampleCaptions h2 {
-    color: #E6F4F1;
-    text-transform: uppercase;
-    margin-bottom: 50px;
-} */
-
-/* @media (min-width: 992px) {
-    .introduction {
-        padding-right: 40px;
-    }
-} */
-
 
 /* about section */
 .profile-image {
@@ -922,59 +895,12 @@ h3 {
         padding-bottom: unset;
     }
 
-    /* @media (max-height: 1024px) {
-        .transparent-footer {
-            position: relative;
-            align-items: flex-end;
-            max-height: unset;
-            padding-bottom: unset;
-        }
-    } */
+
 }
 
-/* @media (max-width: 991.98px) {
-    .about .transparent-footer {
-        position: relative;
-        align-items: flex-end;
-        max-height: unset;
-        padding-bottom: unset;
-    }
-} */
 
-/* @media (max-width: 767.98px) {
-    .transparent-footer {
-        position: relative;
-        align-items: flex-end;
-        max-height: unset;
-        padding-bottom: unset;
-    }
-} */
 
-/* @media (max-height: 599.98px) {
-    .transparent-footer {
-        position: relative;
-        align-items: flex-end;
-        max-height: unset;
-        padding-bottom: unset;
-    }
-} */
 
-/* @media (max-height: 767.98px) {
-    .transparent-footer {
-        position: relative;
-        align-items: flex-end;
-        max-height: unset;
-        padding-bottom: unset;
-    }
-
-    .timeline-item h4 {
-        font-size: 1rem;
-    }
-
-    .timeline-item {
-        padding: 60px 2em 0em 2em;
-    }
-} */
 
 /* arrow buttons */
 
