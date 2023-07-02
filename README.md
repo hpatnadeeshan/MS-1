@@ -146,30 +146,30 @@ Navigational Elements:
 
 #### Mobile view wireframes
 
-[Landing page Mobile first](./assets/wireframes/Home-mobile-min.jpg)
+![Landing page Mobile first](./assets/wireframes/Home-mobile-min.jpg)
 
-[About page Mobile first](./assets/wireframes/about-mobile-min.jpg)
+![About page Mobile first](./assets/wireframes/about-mobile-min.jpg)
 
-[Portfolio page Mobile first](./assets/wireframes/portfolio-mobile-min.jpg)
+![Portfolio page Mobile first](./assets/wireframes/portfolio-mobile-min.jpg)
 
-[Services page Mobile first](./assets/wireframes/services-mobile-min.jpg)
+![Services page Mobile first](./assets/wireframes/services-mobile-min.jpg)
 
-[Contact page Mobile first](./assets/wireframes/contact-mobile-min.jpg)
+![Contact page Mobile first](./assets/wireframes/contact-mobile-min.jpg)
 
 #### Desktop view wireframes
 
-[Landing page desktop](./assets/wireframes/home-desktop-min.jpg)
+![Landing page desktop](./assets/wireframes/home-desktop-min.jpg)
 
-[About page desktop](./assets/wireframes/about-desktop1-min.jpg)
-[About page desktop](./assets/wireframes/about-desktop2-min.jpg)
+![About page desktop](./assets/wireframes/about-desktop1-min.jpg)
+![About page desktop](./assets/wireframes/about-desktop2-min.jpg)
 
 [Portfolio page desktop](./assets/wireframes/portfolio-desktop-min.jpg)
 
-[Services page desktop](./assets/wireframes/services-desktop-min.jpg)
+![Services page desktop](./assets/wireframes/services-desktop-min.jpg)
 
-[Services page desktop](./assets/wireframes/testimonials-desktop-min.jpg)
+![Services page desktop](./assets/wireframes/testimonials-desktop-min.jpg)
 
-[Contact page desktop](./assets/wireframes/contact-desktop-min.jpg)
+![Contact page desktop](./assets/wireframes/contact-desktop-min.jpg)
 
 ## Features
 
@@ -179,15 +179,25 @@ Navigational Elements:
 
 2. User-Friendly Navigation: The website have user-friendly navigation that makes it easy for visitors to find the information they need quickly.
 
-3. Home Page: The home page should include an overview of the web developer's services, skills, and experience.
+3. Home Page: The home page includes an overview of the web developer's services, skills, and experience.
+    ![Home page- Desktop view](./assets/features/landing%20page-splash%20image.jpg)
+    ![Home page- Mobile view](./assets/features/home%20page%201-mobile.jpg)
 
 4. About Page: The about page provides more detailed information about my background, qualifications, and experience.
+    ![About Page- Desktop view](./assets/features/about%20page.jpg)
+    ![About Page- Mobile view](./assets/features/about-mobile.jpg)
 
 5. Portfolio Page: The portfolio page showcases my past projects, including the technology used and the results achieved.
+    ![Portfolio Page- Desktop view](./assets/features/portfolio%20page.jpg)
+    ![Portfolio Page- Mobile view](./assets/features/portfolio%20page-mobile.jpg)
 
 6. Services Page: The services page provide a detailed list of my services, including the technology used and testimonials that include customer reviews or feedback that speaks to the quality of my work.
-
+    ![Services Page- Desktop view](./assets/features/services%20page-1.jpg)
+    ![Services Page- Mobile view](./assets/features/services%20page%201-mobile.jpg)
 7. Contact Page: The contact page includes a contact form and my contact information, such as email, phone number, or social media links.
+    ![Contact Page- Desktop view](./assets/features/contact%20page.jpg)
+    ![Contact Page- Mobile view](./assets/features/contact%20page%201-mobile.jpg)
+
 8. SEO Optimization: The website optimized for search engines to improve visibility and attract more traffic to the site.
 
 9. Social Media Integration: The website have social media integration, allowing visitors to share and follow me on different social media platforms.
