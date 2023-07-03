@@ -491,12 +491,18 @@ h3 {
 
 /* ---------------------portfolio-------------------- */
 
-.portfolio h2 {
+.portfolio h1 {
     text-transform: uppercase;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     text-align: left;
     color: #F0EDFF;
     padding-left: 30px;
+    margin-top: 10px;
+    font-size: 2rem;
+}
+
+.page-link:hover {
+    color: #e59d23;
 }
 
 .projects {
@@ -564,6 +570,10 @@ h3 {
 
     color: #8F8CAF;
     text-align: center;
+}
+
+.card-body .card-link:hover {
+    color: #e59d23;
 }
 
 /* ---------------------services-------------------- */
