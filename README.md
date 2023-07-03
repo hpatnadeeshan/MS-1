@@ -180,64 +180,111 @@ Navigational Elements:
 2. User-Friendly Navigation: The website have user-friendly navigation that makes it easy for visitors to find the information they need quickly.
 
 3. Home Page: The home page includes an overview of the web developer's services, skills, and experience.
+    Desktop view
+
     ![Home page- Desktop view](./assets/features/landing%20page-splash%20image.jpg)
+
+    Mobile view
+
     ![Home page- Mobile view](./assets/features/home%20page%201-mobile.jpg)
     ![Home page- Mobile view](./assets/features/home%20page%202-mobile.jpg)
 
 4. About Page: The about page provides more detailed information about my background, qualifications, and experience.
+   Desktop view
     ![About Page- Desktop view](./assets/features/about%20page.jpg)
+
+    Mobile view
+
     ![About Page- Mobile view](./assets/features/about-mobile.jpg)
 
 5. Portfolio Page: The portfolio page showcases my past projects, including the technology used and the results achieved.
+    Desktop view
+
     ![Portfolio Page- Desktop view](./assets/features/portfolio%20page.jpg)
+
+    Mobile view
+
     ![Portfolio Page- Mobile view](./assets/features/portfolio%20page-mobile.jpg)
 
 6. Services Page: The services page provide a detailed list of my services, including the technology used and testimonials that include customer reviews or feedback that speaks to the quality of my work.
+    Desktop view
+
     ![Services Page- Desktop view](./assets/features/services%20page-1.jpg)
+
+    Mobile view
+
     ![Services Page- Mobile view](./assets/features/services%20page%201-mobile.jpg)
     ![Services Page- Mobile view](./assets/features/services%20page%202-mobile.jpg)
     ![Services Page- Mobile view](./assets/features/services%20page%203-mobile.jpg)
-    
-7. Contact Page: The contact page includes a contact form and my contact information, such as email, phone number, or social media links.
+
+7. Contact Page: The contact page includes a contact form and my contact information, such as email, phone number, or social media links.  
+    Desktop view
+
     ![Contact Page- Desktop view](./assets/features/contact%20page.jpg)
+
+    Mobile view
+
     ![Contact Page- Mobile view](./assets/features/contact%20page%201-mobile.jpg)
     ![Contact Page- Mobile view](./assets/features/contact%20page%202-mobile.jpg)
 
 8. SEO Optimization: The website optimized for search engines to improve visibility and attract more traffic to the site.
 
-9. Social Media Integration: The website have social media integration, allowing visitors to share and follow me on different social media platforms.
-10. Analytics: The website have analytics integration, allowing me to track website traffic, user behavior, and other key metrics.
-11. Security: The website is secured with SSL certification.
+9. Social Media Integration: The website have social media integration, allowing visitors to  follow me on different social media platforms.
+
+10. Security: The website is secured with SSL certification.
 
 ### Features Left to Implement
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
+1. In future I intend to add a blog page.
+2. Site administrator need to update work experince and educational background.
+3. Site administrator need to add my latest projects to the portfolio.
+4. Site administrator need to add or remove testimonials which I get from clients.
+5. Site administrator need to update the CV that links to the website.
+6. Site administrator need to see the messages that coming from clients and Employers.
+7. Need to add a option to rate my work with stars.
+8. Need to add a feature that clients testimonials intantly apear on the page when they give their feedback.
 
 ## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap v4.5.3
+- Google Chrome Dev tools for debugging
+- Google Light house for audits
+- Git source control
+- VS code as IDE
+- W3C validator used for HTML validating
+- Jigsaw Validator used for CSS validation
+  
 ## Testing
+
 ### Testing planning
+
 ### Implementation
+
 ### Results and outcomes
 
 ## Deployment
 
-To deploy this project run
+The project was done using Codeanywhere with VS Code. Github used for version control and used as the code hosting platform.
+Commits are done regulary and using terminal as well as inbuilt source control tab in VS code.
 
-```bash
-  npm run deploy
-```
+Github pages were used to deploy the site. Selected the master Branch from the source section drop-down menu by navigating settings tab in the GitHub repository.Detailed ribbon was appeared and page was automatically refreshed with successful deployment.
+
+The live link can be from here : <https://hpatnadeeshan.github.io/MS-1>
 
 
 ## Bugs
+
 ## Credits
+
 ## Content
+
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 **This project was created for the Code Institute Module of User Centric front end development**
 
