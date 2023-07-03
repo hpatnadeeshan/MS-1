@@ -302,6 +302,10 @@ body {
     margin-top: 30px;
 }
 
+.line-space {
+    line-height: 40px;
+}
+
 /* ---------------------about page-------------------- */
 
 .profile-image {
@@ -882,10 +886,7 @@ h3 {
 
 @media (max-width: 991.98px) {
 
-
-    .about .transparent-footer,
-    .portfolio .transparent-footer,
-    .services .transparent-footer {
+    .transparent-footer {
         position: relative;
         align-items: flex-end;
         max-height: unset;
