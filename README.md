@@ -182,16 +182,16 @@ Navigational Elements:
 3. Home Page: The home page includes an overview of the web developer's services, skills, and experience.
     Desktop view
 
-    ![Home page- Desktop view](./assets/features/landing%20page-splash%20image.jpg)
+    ![Home page- Desktop view](./assets/features/landing-page-splash-image.jpg)
 
     Mobile view
 
-    ![Home page- Mobile view](./assets/features/home%20page%201-mobile.jpg)
-    ![Home page- Mobile view](./assets/features/home%20page%202-mobile.jpg)
+    ![Home page- Mobile view](./assets/features/home-page-1-mobile.jpg)
+    ![Home page- Mobile view](./assets/features/home-page-2-mobile.jpg)
 
 4. About Page: The about page provides more detailed information about my background, qualifications, and experience.
    Desktop view
-    ![About Page- Desktop view](./assets/features/about%20page.jpg)
+    ![About Page- Desktop view](./assets/features/about-page.jpg)
 
     Mobile view
 
@@ -200,32 +200,32 @@ Navigational Elements:
 5. Portfolio Page: The portfolio page showcases my past projects, including the technology used and the results achieved.
     Desktop view
 
-    ![Portfolio Page- Desktop view](./assets/features/portfolio%20page.jpg)
+    ![Portfolio Page- Desktop view](./assets/features/portfolio-page.jpg)
 
     Mobile view
 
-    ![Portfolio Page- Mobile view](./assets/features/portfolio%20page-mobile.jpg)
+    ![Portfolio Page- Mobile view](./assets/features/portfolio-page-mobile.jpg)
 
 6. Services Page: The services page provide a detailed list of my services, including the technology used and testimonials that include customer reviews or feedback that speaks to the quality of my work.
     Desktop view
 
-    ![Services Page- Desktop view](./assets/features/services%20page-1.jpg)
+    ![Services Page- Desktop view](./assets/features/services-page-1.jpg)
 
     Mobile view
 
-    ![Services Page- Mobile view](./assets/features/services%20page%201-mobile.jpg)
-    ![Services Page- Mobile view](./assets/features/services%20page%202-mobile.jpg)
-    ![Services Page- Mobile view](./assets/features/services%20page%203-mobile.jpg)
+    ![Services Page- Mobile view](./assets/features/services-page-1-mobile.jpg)
+    ![Services Page- Mobile view](./assets/features/services-page-2-mobile.jpg)
+    ![Services Page- Mobile view](./assets/features/services-page-3-mobile.jpg)
 
 7. Contact Page: The contact page includes a contact form and my contact information, such as email, phone number, or social media links.  
     Desktop view
 
-    ![Contact Page- Desktop view](./assets/features/contact%20page.jpg)
+    ![Contact Page- Desktop view](./assets/features/contact-page.jpg)
 
     Mobile view
 
-    ![Contact Page- Mobile view](./assets/features/contact%20page%201-mobile.jpg)
-    ![Contact Page- Mobile view](./assets/features/contact%20page%202-mobile.jpg)
+    ![Contact Page- Mobile view](./assets/features/contact-page-1-mobile.jpg)
+    ![Contact Page- Mobile view](./assets/features/contact-page-2-mobile.jpg)
 
 8. SEO Optimization: The website optimized for search engines to improve visibility and attract more traffic to the site.
 
