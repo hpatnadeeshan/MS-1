@@ -91,7 +91,7 @@ body {
 
 
 .navbar-nav .active .nav-link {
-    color: #0D2333;
+    color: #ECBA65;
     font-size: 18px;
     font-weight: 700;
 }
@@ -115,7 +115,7 @@ body {
 }
 
 .navbar-collapse {
-    background-color: #697D91;
+    background-color: #495064;
     border-radius: 8px;
     flex-grow: 0;
     margin-left: auto;
@@ -296,7 +296,7 @@ body {
 }
 
 .content .btn-primary {
-    color: #E6F4F1;
+    color: #000000;
     background-color: #E59D23;
     border-color: #E59D23;
     margin-top: 30px;
