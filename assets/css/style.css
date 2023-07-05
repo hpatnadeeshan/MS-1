@@ -347,7 +347,7 @@ body {
     color: #A1AABA;
 }
 
-.timeline-item h4 {
+.timeline-item h2 {
     font-size: 1.15rem;
 }
 
@@ -425,13 +425,17 @@ body {
 }
 
 
-#education h3,
+#education h1,
 #education p {
     color: #e2f0ff;
+
 }
 
+#education h1 {
+    font-size: 1.5rem;
+}
 
-.timeline-item h4 {
+.timeline-item h2 {
     font-size: 1rem;
 }
 
@@ -466,7 +470,7 @@ h3 {
 
 }
 
-.bullet-list h3:before {
+.bullet-list h1:before {
     content: "";
     position: absolute;
     left: -1rem;
