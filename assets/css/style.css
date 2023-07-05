@@ -139,7 +139,7 @@ body {
 }
 
 .contact .social-icon {
-    color: #005a32;
+    color: #003D21;
 
 }
 
@@ -772,7 +772,7 @@ h3 {
     text-align: center;
     margin-bottom: 50px;
     text-transform: uppercase;
-    color: #FFE6FF;
+    color: #003D21;
     font-size: 2rem;
     /* font-weight: 500; */
 }
@@ -790,7 +790,7 @@ h3 {
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #005a32;
+    background-color: #003D21;
     color: #FFE6FF;
     border: none;
     border-radius: 5px;
@@ -829,14 +829,14 @@ h3 {
 .contact-details h2 {
     text-align: center;
     margin-bottom: 50px;
-    color: #896284;
+    color: #866080;
 }
 
 .contact-details h3 {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
-    color: #896284;
+    color: #866080;
     /* display: flex; */
 }
 
@@ -850,6 +850,7 @@ h3 {
 
 .contact-details a {
     margin-right: auto;
+    color: #0067D6;
 }
 
 .contact-details p i {
@@ -1135,4 +1136,8 @@ h3 {
 .arrow-buttons a:hover .tooltip {
     visibility: visible;
     opacity: 1;
+}
+
+.contact .transparent-footer p {
+    color: #003D21;
 }
