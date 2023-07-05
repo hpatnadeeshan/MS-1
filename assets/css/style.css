@@ -521,9 +521,10 @@ h3 {
     padding: 10px 10px;
 }
 
-.card-body h5 {
-
-    color: #00c893;
+.card-body h2 {
+    text-transform: uppercase;
+    color: #00855E;
+    font-size: 1.25rem;
 }
 
 @media (max-width: 767.98px) {
@@ -561,19 +562,23 @@ h3 {
 
 .card-text:last-child {
     height: 72px;
-    color: #8F8CAF;
+    color: #74729D;
 }
 
 .list-group-item {
     padding-left: 15px;
     padding-right: 15px;
 
-    color: #8F8CAF;
+    color: #74729D;
     text-align: center;
 }
 
 .card-body .card-link:hover {
     color: #e59d23;
+}
+
+a.card-link {
+    color: #0067D6;
 }
 
 /* ---------------------services-------------------- */
