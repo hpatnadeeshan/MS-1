@@ -125,11 +125,9 @@ body {
 
 .social-icons {
     display: flex;
-    /* align-items: center; */
     justify-content: end;
     margin-top: 20px;
     margin-right: 5px;
-    /* padding-right: 0; */
 }
 
 .social-icon {
@@ -181,7 +179,6 @@ body {
 
     .logo {
         margin-left: 70px;
-        /* width: 100%; */
     }
 
     .navbar-nav .active .nav-link {
@@ -197,12 +194,10 @@ body {
     color: #E6F4F1;
 
     background-color: transparent;
-    /* border-radius: 8px; */
     text-align: center;
     margin-left: 25px;
     margin-right: 25px;
     padding-top: 40px;
-    /* display: inline-block; */
     padding-left: 0px;
     padding-right: 0px;
     padding-bottom: 10px;
@@ -289,10 +284,6 @@ body {
 
 .content .lead {
     color: #E6F4F1;
-
-
-
-    /* background-color: black; */
 }
 
 .content .btn-primary {
@@ -328,7 +319,6 @@ body {
 }
 
 .timeline-item {
-    /* padding: 4em 2em 0em 2em; */
     padding: 60px 2em 0em 2em;
     position: relative;
     color: #e2f0ff;
@@ -404,13 +394,11 @@ body {
 }
 
 .nav {
-    /* margin-right: 200px; */
     width: 80%;
 }
 
 @media (max-width: 575.98px) {
     .nav {
-        /* margin-right: 200px; */
         width: 90%;
     }
 
@@ -520,8 +508,6 @@ h3 {
 }
 
 .card-body {
-    /* padding-left: 15px;
-    padding-right: 15px; */
     padding: 10px 10px;
 }
 
@@ -596,7 +582,6 @@ a.card-link {
     padding: 20px 40px 20px;
     margin: 0;
     margin-bottom: 75px;
-    /* margin: 0 30px; */
 }
 
 @media (max-width: 991.98px) {
@@ -766,7 +751,6 @@ a.card-link {
 /* ---------------------contact-------------------- */
 
 .contact-form {
-    /* background-color: #f2f2f2; */
     border-radius: 10px;
     padding: 20px;
     max-width: 500px;
@@ -783,7 +767,6 @@ a.card-link {
     text-transform: uppercase;
     color: #003D21;
     font-size: 2rem;
-    /* font-weight: 500; */
 }
 
 
@@ -813,7 +796,6 @@ a.card-link {
 .contact-details {
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     background-color: #FFE6FF;
     border-radius: 10px;
     padding: 20px;
@@ -846,7 +828,6 @@ a.card-link {
     margin-top: 50px;
     margin-bottom: 50px;
     color: #866080;
-    /* display: flex; */
 }
 
 
