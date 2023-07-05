@@ -911,6 +911,19 @@ h3 {
         max-height: unset;
         padding-bottom: unset;
     }
+
+    @media (min-height: 1048px) {
+        .transparent-footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            display: flex;
+            align-items: flex-end;
+            max-height: 110px;
+            padding-bottom: 10px;
+        }
+
+    }
 }
 
 @media (max-width: 767.98px) {
