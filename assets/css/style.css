@@ -340,11 +340,11 @@ body {
 .timeline-item p {
     padding: 0;
     margin: 0;
-    color: #626D89;
+    color: #A1AABA;
 }
 
 #education .period {
-    color: #626D89;
+    color: #A1AABA;
 }
 
 .timeline-item h4 {
@@ -619,7 +619,7 @@ h3 {
     font-size: 2rem;
 }
 
-.service h3 {
+.service h2 {
     font-size: 24px;
     margin-bottom: 20px;
 }
@@ -627,7 +627,7 @@ h3 {
 .service p {
     font-size: 16px;
     line-height: 1.5;
-    color: #8C779B;
+    color: #73658B;
 
 }
 
@@ -636,7 +636,8 @@ h3 {
     margin-bottom: 20px;
     background-color: #E59D23;
     align-items: center;
-    border-color: #00C9AF;
+    border-color: #E59D23;
+    color: #000000;
 }
 
 .btn-primary:hover {
@@ -717,7 +718,7 @@ h3 {
 
 
 .testimonial h3 {
-    color: #8C779B;
+    color: #73658B;
     font-size: 18px;
     margin-bottom: 10px;
     margin-top: 10px;
@@ -727,7 +728,7 @@ h3 {
 
 .testimonial p {
     font-size: 20px;
-    color: #00C9AF;
+    color: #007A67;
     padding: 0 5px 10px 5px;
     margin-bottom: 10px;
     font-style: italic;
