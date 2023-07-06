@@ -249,7 +249,7 @@ body {
 }
 
 
-.home h2{
+.home h2 {
     font-family: Exo, sans-serif;
 }
 
@@ -1005,6 +1005,23 @@ a.card-link {
 }
 
 
+@media (min-width: 992px) {
+    @media (max-height: 720px) {
+        .transparent-footer {
+            position: relative;
+            align-items: flex-end;
+            max-height: unset;
+            padding-bottom: unset;
+        }
+
+        .background-container {
+            overflow: visible;
+        }
+
+    }
+}
+
+
 @media (max-width: 767.98px) {
     .transparent-footer {
         position: relative;
@@ -1118,6 +1135,7 @@ a.card-link {
 
 
 @media (max-width: 991.98px) {
+
     .footer-content .arrow-buttons,
     .transparent-footer .info {
         display: none;
