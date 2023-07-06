@@ -124,6 +124,14 @@ body {
         padding-top: 10px;
         padding-bottom: 10px;
     }
+
+
+    @media (max-width: 991.98px) {
+        .navbar-expand-md .navbar-nav .nav-link {
+            padding-right: 9px;
+            padding-left: 9px;
+        }
+    }
 }
 
 
