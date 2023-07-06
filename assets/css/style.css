@@ -951,6 +951,11 @@ a.card-link {
 }
 
 
+.contact .btn-download {
+    color: #003D21;
+}
+
+
 .btn-download i {
     margin-right: 10px;
 }
