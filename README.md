@@ -5,34 +5,34 @@ Project - User-Centric Frontend Development - Code Institute.
 
 ## Site Goals
 
-Creating a personal portfolio site allows me to showcase my skills and expertise as a web developer, highlighting my past projects, technical abilities, and design skills to demonstrate my value and differentiate myself from other developers. It helps me build my personal brand, establishing and expanding my online presence as a web developer, increasing visibility and attracting more opportunities for work or collaboration. By including contact information and social media profiles, I make it easy for others to reach out and connect, expanding my network of professional contacts and potential clients. Furthermore, my personal portfolio site serves as a powerful marketing tool, generating leads and attracting new business by showcasing my skills and past work to catch the attention of potential clients or employers seeking someone with my specific skills and experience. Ultimately, it helps me establish credibility and trust by providing detailed information about my expertise and experience, including testimonials from satisfied clients or colleagues.
+Creating a personal portfolio site allows me to showcase my skills and expertise as a web developer, highlighting my past projects, technical abilities, and design skills to demonstrate my value and differentiate myself from other developers. It helps me build my personal brand, establish and expand my online presence as a web developer, increase visibility, and attract more opportunities for work or collaboration. By including contact information and social media profiles, I make it easy for others to reach out and connect, expanding my network of professional contacts and potential clients. Furthermore, my personal portfolio site serves as a powerful marketing tool, generating leads and attracting new business by showcasing my skills and past work to catch the attention of potential clients or employers seeking someone with my specific skills and experience. Ultimately, it helps me establish credibility and trust by providing detailed information about my expertise and experience, including testimonials from satisfied clients or colleagues.
 
 ## UX
 
 ### User Stories
 
-#### As a Employer or Client
+#### As an Employer or Client
 
 1. I want to see his work experience & educational background.
-2. I want  know his technical skills.
-3. I want go see his past projects.
+2. I want to know his technical skills.
+3. I want to go see his past projects.
 4. I want to know what kind of services he offers.
-5. I want a proof of his past work and quality of work. Need testimonials.
-6. I want to to contact him.
+5. I want proof of his past work and quality of work. Need testimonials.
+6. I want to contact him.
 7. I want to send my details to him.
 8. I want to download his CV.
 
-#### As the site Administrator
+#### As the Site Administrator
 
-1. I want to update work experince and educational background.
+1. I want to update my work experience and educational background.
 2. I want to add my latest projects to the portfolio.
-3. I want to add or remove testimonials which I get from clients.
+3. I want to add or remove testimonials that I get from clients.
 4. I need to update the CV that links to the website.
-5. I need to see the messeges that coming from clients and Employers.
+5. I need to see the messages that come from clients and Employers.
 
 ### Strategy
 
-#### Technical Capabilites
+#### Technical Capabilities
 
 #### Target customer segment
 
@@ -62,7 +62,7 @@ B2B Audience:
 
 2. Showcase Relevant Skills: My portfolio highlights skills that are relevant to businesses, such as my experience with specific technologies or platforms commonly used in the industry.
 
-3. Experience: I highlights my relevant experience working with other businesses or on projects similar to the ones I aim to acquire. This showcases my understanding of business needs and enhances my credibility.
+3. Experience: I highlight my relevant experience working with other businesses or on projects similar to the ones I aim to acquire. This showcases my understanding of business needs and enhances my credibility.
 
 4. Social Proof: I provided testimonials or case studies from previous business clients to offer social proof of my capabilities and successful collaborations.
 
@@ -94,27 +94,27 @@ B2C Audience:
 
 2. Content requirements: This includes the type, quality, and quantity of content on the website. It ensures that the website has high-quality, relevant, and engaging content that communicates my skills, experience, and services effectively.
 
-3. Functional requirements: It ensures that my website has all the necessary features portfolio management, contact forms, and analytics integration.
+3. Functional requirements: It ensures that my website has all the necessary features for portfolio management, contact forms, and analytics integration.
 
 4. Performance requirements: It ensures that my website is fast responsive, and reliable, even under heavy traffic or usage.
 
 5. Security requirements: It ensures the security and privacy of the website and its users such as SSL certificates, backups, and firewalls, to protect against hacking, data breaches, and other threats.
 
-6. Compatibility requirements:It ensures that the website is compatible with all major browsers and devices, such as mobile phones, tablets, and desktop computers.
+6. Compatibility requirements: It ensures that the website is compatible with all major browsers and devices, such as mobile phones, tablets, and desktop computers.
 
-7. Accessibility requirements:It ensures to the accessibility of the website to people with disabilities.
+7. Accessibility requirements: It ensures the accessibility of the website to people with disabilities.
 
 ### Structure
 
 #### Information architecture
 
-1. Home page: The home page provides a brief overview of my skills and experience as a web developer. It includes links to other sections of the website, such as my portfolio, about me, Services page and contact pages.
+1. Home page: The home page provides a brief overview of my skills and experience as a web developer. It includes links to other sections of the website, such as my portfolio, about me, Services page, and contact pages.
 
 2. Portfolio page: The portfolio page showcases my work as a web developer. It features screenshots and descriptions of the projects I have completed, along with links to live websites or applications.
 
 3. About me page: The about me page provides more detailed information about my background, skills, and experience as a web developer. It includes a professional photo and my contact information.
 
-4. Services page: The services page highlights the services I offer as a web developer, such as web design,  E commerce web development, or SEO optimization. It includes testimonials from past clients or colleagues.
+4. Services page: The services page highlights the services I offer as a web developer, such as web design, E-commerce web development, or SEO optimization. It includes testimonials from past clients or colleagues.
 
 5. Contact page: The contact page includes a contact form or email address for inquiries. It also provides links to my social media profiles and other contact information for potential clients or collaborators to get in touch with me.
 
@@ -126,7 +126,7 @@ Visual Elements:
 
 1. Color scheme: Chose a color palette that reflects my personal brand and the type of services I offer.
 
-2. Typography: Chose a visual apealing fonts, bullets and letter style.
+2. Typography: Chose a visually appealing font, bullets, and letter style.
 
 3. Images and graphics: Incorporate high-quality images of my work, portfolio, or professional photo to add visual interest to the site.
 
@@ -140,9 +140,9 @@ Navigational Elements:
 
 2. Navigation menu: Use a clear and concise navigation menu that is easy to understand and navigate.
 
-3. Footer: Include a footer with additional navigation links, copyright information, link to download my CV and contact details.
+3. Footer: Include a footer with additional navigation links, copyright information, a link to download my CV and contact details.
 
-4. Call-to-action buttons: Used clear and prominent call-to-action buttons throughout the site to encourage users to contacting me.
+4. Call-to-action buttons: Used clear and prominent call-to-action buttons throughout the site to encourage users to contact me.
 
 #### Mobile view wireframes
 
@@ -189,7 +189,7 @@ Navigational Elements:
     ![Home page- Mobile view](./assets/features/home-page-1-mobile.jpg)
     ![Home page- Mobile view](./assets/features/home-page-2-mobile.jpg)
 
-4. About Page: The about page provides more detailed information about my background, qualifications, and experience.
+4. About Page: The About page provides more detailed information about my background, qualifications, and experience.
    Desktop view
     ![About Page- Desktop view](./assets/features/about-page.jpg)
 
@@ -206,7 +206,7 @@ Navigational Elements:
 
     ![Portfolio Page- Mobile view](./assets/features/portfolio-page-mobile.jpg)
 
-6. Services Page: The services page provide a detailed list of my services, including the technology used and testimonials that include customer reviews or feedback that speaks to the quality of my work.
+6. Services Page: The services page provides a detailed list of my services, including the technology used and testimonials that include customer reviews or feedback that speaks to the quality of my work.
     Desktop view
 
     ![Services Page- Desktop view](./assets/features/services-page-1.jpg)
@@ -227,22 +227,22 @@ Navigational Elements:
     ![Contact Page- Mobile view](./assets/features/contact-page-1-mobile.jpg)
     ![Contact Page- Mobile view](./assets/features/contact-page-2-mobile.jpg)
 
-8. SEO Optimization: The website optimized for search engines to improve visibility and attract more traffic to the site.
+8. SEO Optimization: The website is optimized for search engines to improve visibility and attract more traffic to the site.
 
-9. Social Media Integration: The website have social media integration, allowing visitors to  follow me on different social media platforms.
+9. Social Media Integration: The website has social media integration, allowing visitors to follow me on different social media platforms.
 
 10. Security: The website is secured with SSL certification.
 
 ### Features Left to Implement
 
-1. In future I intend to add a blog page.
-2. Site administrator need to update work experince and educational background.
-3. Site administrator need to add my latest projects to the portfolio.
-4. Site administrator need to add or remove testimonials which I get from clients.
-5. Site administrator need to update the CV that links to the website.
-6. Site administrator need to see the messages that coming from clients and Employers.
-7. Need to add a option to rate my work with stars.
-8. Need to add a feature that clients testimonials intantly apear on the page when they give their feedback.
+1. In the future I intend to add a blog page.
+2. Site administrator needs to update work experience and educational background.
+3. Site administrator needs to add my latest projects to the portfolio.
+4. Site administrator needs to add or remove testimonials that I get from clients.
+5. Site administrator needs to update the CV that links to the website.
+6. Site administrator needs to see the messages that coming from clients and Employers.
+7. Need to add an option to rate my work with stars.
+8. Need to add a feature that client testimonials instantly appear on the page when they give their feedback.
 
 ## Technologies Used
 
@@ -250,9 +250,9 @@ Navigational Elements:
 - CSS3
 - Bootstrap v4.5.3
 - Google Chrome Dev tools for debugging
-- Google Light house for audits
+- Google Lighthouse for audits
 - Git source control
-- VS code as IDE
+- VS Code as IDE
 - W3C validator used for HTML validating
 - Jigsaw Validator used for CSS validation
   
@@ -264,7 +264,7 @@ Mainly following tests were planned
 
 1. I need to launch the website in a browser to look for any layout or visual problems.
 2. By engaging with various components, including links, buttons, forms, and navigation menus, I need to evaluate the website's functionality.
-3. I need to check   all the user stories to confirm whether they are satisfied.
+3. I need to check all the user stories to confirm whether they are satisfied.
 4. I want to test the website's performance by adjusting the size of the browser window and simulating various devices.
 5. I need to check the website's cross-browser compatibility by opening it in several different browsers.
 6. I want to check the HTML and CSS code for syntax issues or other warnings.
@@ -279,13 +279,13 @@ I need to do all of these actions to guarantee that the website looks good, work
 
 I carefully followed the pre-planned procedures when testing my web page to ensure a complete assessment. Chrome, Firefox, Opera, and Edge are the four widely used browsers I selected to test the website at the beginning. Using a thorough methodology, I was able to evaluate cross-browser compatibility and spot any discrepancies or problems that might exist across various platforms.
 
-I made use of the Google Chrome developer tools to assess the website's performance. To imitate desktop and tablet viewpoints, I tested for a range of screen sizes, starting with the smallest and working my way up to the largest. This allowed me to verify that the website offered an seamless user interface and adjusted correctly to various screen sizes.
+I made use of the Google Chrome developer tools to assess the website's performance. To imitate desktop and tablet viewpoints, I tested for a range of screen sizes, starting with the smallest and working my way up to the largest. This allowed me to verify that the website offered a seamless user interface and adjusted correctly to various screen sizes.
 
 I used the element.style box in the Chrome tools' style section a lot while testing. Before adding my styling to the actual code, this functionality let me evaluate and confirm it. I could play with various categories and find any mistakes or missing parts by making changes to the actual document (editing in HTML). I carefully copied the correct code and smoothly implemented it into my codebase when the necessary change was confirmed.
 
-I also evaluated the website's performance and accessibility using Google Lighthouse. This tool offered perceptions into potential development areas. I concentrated on reducing image sizes in order to improve performance. I tried to reduce the size of the files without sacrificing visual quality by scaling down the photographs and properly compressing them. The website became quicker and more responsive as a result of this optimisation.
+I also evaluated the website's performance and accessibility using Google Lighthouse. This tool offered perceptions into potential development areas. I concentrated on reducing image sizes in order to improve performance. I tried to reduce the size of the files without sacrificing visual quality by scaling down the photographs and properly compressing them. The website became quicker and more responsive as a result of this optimization.
 
-I gave careful consideration to the contrast ratio of the font colours selected on the page in purposes of easy access. I made sure that the contrast among the text and its background was sufficient to satisfy accessibility standards so that individuals with visual disabilities could easily read it. I tried to make the material easily readable for everyone who looked at it by choosing acceptable colour schemes and modifying the formatting as necessary.
+I gave careful consideration to the contrast ratio of the font colours selected on the page for the purpose of easy access. I made sure that the contrast between the text and its background was sufficient to satisfy accessibility standards so that individuals with visual disabilities could easily read it. I tried to make the material easily readable for everyone who looked at it by choosing acceptable colour schemes and modifying the formatting as necessary.
 
 I added visually masked texts to improve accessibility even further. I took measures to make sure that crucial details, including labels for form inputs, were seen by screen readers by employing methods like visibly hidden CSS classes or the aria-label attribute. For visually challenged viewers, these hidden texts offered additional context, ensuring that they could engage with and comprehend the content efficiently.
 
@@ -293,7 +293,7 @@ To ensure code quality and compliance with standards, I frequently used the Jigs
 
 I carefully checked the operation of all four browsers' buttons, links, forms, and other interactive features during the testing process. This all-encompassing strategy made sure that all website functions were completely functional and offered a smooth user experience independent of the selected browser.
 
-I made sure that my website complied with the highest requirements for functionality, usability, and satisfaction among users by sticking to this comprehensive testing technique, which covered browser compatibility, responsiveness, code validation, accessibility, and performance optimisation.
+I made sure that my website complied with the highest requirements for functionality, usability, and satisfaction among users by sticking to this comprehensive testing technique, which covered browser compatibility, responsiveness, code validation, accessibility, and performance optimization.
 
 ### Results and outcomes
 
@@ -302,11 +302,11 @@ I made sure that my website complied with the highest requirements for functiona
 As an Employer or Client Expectations:
 
 1. I want to see his work experience & educational background.
-2. I want  know his technical skills.
-3. I want go see his past projects.
+2. I want to know his technical skills.
+3. I want to go see his past projects.
 4. I want to know what kind of services he offers.
-5. I want a proof of his past work and quality of work. Need testimonials.
-6. I want to to contact him.
+5. I want proof of his past work and quality of work. Need testimonials.
+6. I want to contact him.
 7. I want to send my details to him.
 8. I want to download his CV.
 
@@ -314,18 +314,18 @@ As a user Results:
 
 1. I can see his work experience & educational background in About Page.
 2. I can see his technical skills in About Page.
-3. I can see his past projects Portfolio page.
+3. I can see his past projects on the Portfolio page.
 4. I can see what kind of services he offers Services page.
-5. He has proof of his past work and quality of work. I can see testimonials in Services page.
-6. I can contact him through social icons and details in the contact page.
-7. I can send my details to him through contact form in Contact page.
-8. I can to download his CV from Download CV button.
+5. He has proof of his past work and quality of work. I can see testimonials on the Services page.
+6. I can contact him through social icons and details on the contact page.
+7. I can send my details to him through the contact form on the Contact page.
+8. I can download his CV from the Download CV button.
 
 #### Testing Accessibility and Performance
 
 I used google lighthouse to check Accessibility and Performance. I tested for Mobile and Desktop views of every page.
 
-Results can be shown as follows and images can be access through links
+Results can be shown as follows and images can be accessible through links
 
 |                    | Performance | Accessibility | Best Practices | SEO |
 | ------------------ | ----------- | ------------- | -------------- | --- |
@@ -349,85 +349,85 @@ results can be shown as follows
 | Feature                     | Expect                                                                                                                                | Action                                                                   | Result for each browser                                                                                                                                                                                                    |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Logo                        | When clicked the logo image Home page will open                                                                                       | Clicked the Logo image                                                   | **Chrome:** Home Page opened<br>**Opera:** Home Page opened<br>**Firefox:** Home Page opened<br>**Edge:** Home Page opened                                                                                 |
-| Nav Bar buttons             | When I click each button relevent page will open                                                                                      | Clicked the navbar buttons                                               | **Chrome:** Opened correct page<br>**Opera:** Opened correct page<br>**Firefox:** Opened correct page<br>**Edge:** Opened correct page                                                                     |
+| Nav Bar buttons             | When I click each button relevant page will open                                                                                      | Clicked the navbar buttons                                               | **Chrome:** Opened correct page<br>**Opera:** Opened correct page<br>**Firefox:** Opened correct page<br>**Edge:** Opened correct page                                                                     |
 | Social Icons                | When I click each button relevant external link will open in a new tab                                                                | Clicked the social icons                                                 | **Chrome:** Opened relevant page in a new tab<br>**Opera:** Opened relevant page in a new tab<br>**Firefox:** Opened relevant page in a new tab<br>**Edge:** Opened relevant page in a new tab             |
-| Download CV button          | When I click the button CV will download in a new tab                                                                                 | Clicked the Download CV button                                           | **Chrome:** Downloaded the cv ina new tab<br>**Opera:** Downloaded the cv ina new tab<br>**Firefox:** Downloaded the cv ina new tab<br>**Edge:** Downloaded the cv ina new tab                             |
-| Contact me button           | When I click the button redirect me to the Contact page                                                                               | Clicked the contact me button                                            | **Chrome:** Opened the Contact page<br>**Opera:** Opened the Contact page<br>**Firefox:** Opened the Contact page<br>**Edge:** Opened the Contact page                                                     |
+| Download CV button          | When I click the button CV will download in a new tab                                                                                 | Clicked the Download CV button                                           | **Chrome:** Downloaded the cv in a new tab<br>**Opera:** Downloaded the cv in a new tab<br>**Firefox:** Downloaded the cv in a new tab<br>**Edge:** Downloaded the cv in a new tab                             |
+| Contact me button           | When I click the button redirects me to the Contact page                                                                               | Clicked the contact me button                                            | **Chrome:** Opened the Contact page<br>**Opera:** Opened the Contact page<br>**Firefox:** Opened the Contact page<br>**Edge:** Opened the Contact page                                                     |
 | Tab panel buttons           | When I click each tab button each tab-pane will open                                                                                  | Clicked the buttons in tab panel                                         | **Chrome:** Opened Each tab pane<br>**Opera:** Opened Each tab pane<br>**Firefox:** Opened Each tab pane<br>**Edge:** Opened Each tab pane                                                                 |
-| Portfolio links             | When I click the links each website will open in a new tab                                                                            | Clicked the links in the cards in Portfolio section                      | **Chrome:** Opened relevant website in a new tab<br>**Opera:** Opened relevant website in a new tab<br>**Firefox:** Opened relevant website in a new tab<br>**Edge:** Opened relevant website in a new tab |
-| Hire me Button              | When I click the button redirect me to the Contact page                                                                               | Clicked the hire me button                                               | **Chrome:** Opened the Contact page<br>**Opera:** Opened the Contact page<br>**Firefox:** Opened the Contact page<br>**Edge:** Opened the Contact page                                                     |
+| Portfolio links             | When I click the links each website will open in a new tab                                                                            | Clicked the links in the cards in the Portfolio section                      | **Chrome:** Opened relevant website in a new tab<br>**Opera:** Opened relevant website in a new tab<br>**Firefox:** Opened relevant website in a new tab<br>**Edge:** Opened relevant website in a new tab |
+| Hire me Button              | When I click the button redirects me to the Contact page                                                                               | Clicked the hire me button                                               | **Chrome:** Opened the Contact page<br>**Opera:** Opened the Contact page<br>**Firefox:** Opened the Contact page<br>**Edge:** Opened the Contact page                                                     |
 | Form submit button          | form submits when submit button clicked                                                                                               | Clicked the submit button on the form                                    | **Chrome:** The form successfully submitted on click<br>**Opera:** The form successfully submitted<br>**Firefox:** The form successfully submitted<br>**Edge:** The form successfully submitted            |
 | Introduction Home page      | When page loads introduction text will appear with an animation                                                                       | Refresh the Home page                                                    | **Chrome:** Fade effect worked correctly<br>**Opera:** Fade effect worked correctly<br>**Firefox:** Fade effect worked correctly<br>**Edge:** Fade effect worked correctly                                 |
-| Mobile view responsiveness  | When changed the screen size to the mobile device size, all elements appear in the correct place and the toggler button should appear | Checked screen width sizes  for screen widths less than 768px            | **Chrome:** all elements appeared correctly<br>**Opera:** all elements appeared correctly<br>**Firefox:** all elements appeared correctly<br>**Edge:** all elements appeared correctly                     |
-| Tablet view responsiveness  | When changed the screen size to the tablet device size, all elements appear in the correct place.                                     | Checked screen width sizes  for screen widths between 768px  and  992px. | **Chrome:** all elements appeared correctly<br>**Opera:** all elements appeared correctly<br>**Firefox:** all elements appeared correctly<br>**Edge:** all elements appeared correctly                     |
-| Desktop View responsiveness | When changed the screen size to the Desktop device size, all elements appear in the correct place.                                    | Checked screen width sizes for screen widths greater than 992px.         | **Chrome:** all elements appeared correctly<br>**Opera:** all elements appeared correctly<br>**Firefox:** all elements appeared correctly<br>**Edge:** all elements appeared correctly                     |
+| Mobile view responsiveness  | When changed the screen size to the mobile device size, all elements appear in the correct place and the toggler button should appear | Checked screen width sizes for screen widths less than 768px            | **Chrome:** all elements appeared correctly<br>**Opera:** all elements appeared correctly<br>**Firefox:** all elements appeared correctly<br>**Edge:** all elements appeared correctly                     |
+| Tablet view responsiveness  | When changed the screen size to the tablet device size, all elements appear in the correct place.                                     | Checked screen width sizes for screen widths between 768px  and  992px. | **Chrome:** all elements appeared correctly<br>**Opera:** all elements appeared correctly<br>**Firefox:** all elements appeared correctly<br>**Edge:** all elements appeared correctly                     |
+| Desktop View responsiveness | When changing the screen size to the Desktop device size, all elements appear in the correct place.                                    | Checked screen width sizes for screen widths greater than 992px.         | **Chrome:** all elements appeared correctly<br>**Opera:** all elements appeared correctly<br>**Firefox:** all elements appeared correctly<br>**Edge:** all elements appeared correctly                     |
 
 #### Validating
 
-Validation done throghout the development and all the error and warnings are fixed.
+Validation is done throughout the development and all the error and warnings are fixed.
 
-following validators have been used to validated HTML and CSS codes.
+following validators have been used to validate HTML and CSS codes.
 
 - [W3C validator](https://validator.w3.org/) used for HTML validating
 - [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) used for CSS validation
 
 ## Deployment
 
-The project was done using Codeanywhere with VS Code. Github used for version control and used as the code hosting platform.
-Commits are done regulary and using terminal as well as inbuilt source control tab in VS code.
+The project was done using Codeanywhere with VS Code. GitHub is used for version control and used as the code hosting platform.
+Commits are done regularly and using the terminal as well as the inbuilt source control tab in VS code.
 
-Github pages were used to deploy the site. Selected the master Branch from the source section drop-down menu by navigating settings tab in the GitHub repository.Detailed ribbon was appeared and page was automatically refreshed with successful deployment.
+GitHub pages were used to deploy the site. Selected the master Branch from the source section drop-down menu by navigating the settings tab in the GitHub repository. The detailed ribbon appeared and the page was automatically refreshed with successful deployment.
 
-The live link can be found from here : <https://hpatnadeeshan.github.io/MS-1>
+The live link can be found here: <https://hpatnadeeshan.github.io/MS-1>
 
 To deploy locally:
 
-clone or download website repository as a zip file or Github desktop method. Open the directory through a IDE and Run the website on a local server.
+clone or download the website repository as a zip file or GitHub desktop method. Open the directory through an IDE and Run the website on a local server.
 
 ## Bugs
 
-I found several bugs while I was developing the website. Here How i identify and dubug the each bug.
+I found several bugs while I was developing the website. Here is How I identify and debug each bug.
 
-1. As per my design I wanted to set Nav bar center of header for desktop and tablet views.  However when comes to mobile devices it is more user friendly to set  toggler button  on right top corner. Therefore I had to use nav bar bootstrap class in 2 different div elements(debug). It took considerable time to make the toggler button work properly.
-2. In my design i wanted to set my web page takeplace whole view port area for desktop view without any scrolling. For acheive the purpose I had to change the footer position fixed and relative different device widths and heights. In  that case I found footer icon intersect with page content when its come to tablet view and cant see the bottom part of the page content due to this bug. Debugging was done considering breakponits(768px, 992px) as well as considering height of each type of devices. I had to use CSS nested media qurries to debug.
-3. I found some poor contrast ratio when I was using lighthouse tool for testing accessibilty. Since I decided to use  a matching color pallet for each page. since I could not change the basic theme i did change small color changes using a color contrast analyzer by changing the lightness of font colors according to color contrast guildline.  I frequently used google developer tool to see the changes before coding.
-4. When it comes to tablet view I found a bug in nav bar about me word appear in 2 lines and it increse the height of nav bar and other texts in navbar looks asymmetric since text are not vertically align. Also it is not look visually appealing. I had to reduce the horizontal padding of related button class to debug this.I tried several method but this is the less coding method.
+1. As per my design I wanted to set the Nav bar center of the header for desktop and tablet views.  However, when comes to mobile devices it is more user-friendly to set the toggler button on the right top corner. Therefore, I had to use the nav bar bootstrap class in 2 different div elements(debug). It took considerable time to make the toggler button work properly.
+2. In my design I wanted to set my web page to take place whole viewport area for desktop view without any scrolling. To achieve this purpose, I had to change the footer position to fixed and relatively different device widths and heights. In that case, I found the footer icon intersects with page content when it comes to tablet view, and I can’t see the bottom part of the page content due to this bug. Debugging was done considering breakpoints (768px, 992px) as well as considering the height of each type of device. I had to use CSS nested media queries to debug.
+3. I found some poor contrast ratios when I was using the lighthouse tool for testing accessibility. Since I decided to use a matching color pallet for each page. since I could not change the basic theme, I did change small color changes using a color contrast analyzer by changing the lightness of font colors according to color contrast guidelines.  I frequently used the Google developer tool to see the changes before coding.
+4. When it comes to tablet view, I found a bug in the nav bar about me word appears in 2 lines and it increases the height of the nav bar and other texts in the navbar look asymmetric since the text is not vertically aligned. Also, it does not look visually appealing. I had to reduce the horizontal padding of the related button class to debug this. I tried several methods, but this is the less coding method.
 
-All above bugs are found at final stage of developing. However more than 30 bugs were identified and debug while developing the website. Chrome developer tool played a major part for debugging and had use CSS media qurries widely to debug.
+All the above bugs are found at the final stage of development. However, more than 30 bugs were identified and debugged while developing the website. Chrome developer tool played a major part in debugging and had to use CSS media queries widely to debug.
 
 ## Credits
 
 ### Content
 
-1. Social icons, Services icons and footer icons were taken from Font Awesome.
+1. Social icons, Services icons, and footer icons were taken from Font Awesome.
 2. Bootstrap framework used throughout the website.
-   - media quieries used in everypage
-   - Jumbotron component used in Home page
-   - Navbar used in every page
-   - nav-tabs in About page
-   - progress bars in About page
-   - pagination in Portfolio page
-   - Image Cards in Portfolio page
-   - Contact form in Contact page
+   - media queries used on every page
+   - Jumbotron component used on the Home page
+   - Navbar used on every page
+   - nav-tabs in the About page
+   - progress bars on the About page
+   - pagination on the Portfolio page
+   - Image Cards on the Portfolio page
+   - Contact form on the Contact page
    - call in action buttons
   
 3. Google Fonts used in the website (Roboto & Exo)
-4. Code for the Timeline in About page was taken from Mini project(the Resume Project) by Code Institute, Ireland.
+4. Code for the Timeline on the About page was taken from the Mini project(the Resume Project) by Code Institute, Ireland.
 
 ### Media
 
-1. Images for Portfolio page were taken from following websites
+1. Images for the Portfolio page were taken from the following websites
    <https://www.getbootstrap.com>
    <https://www.w3schools.com>
    <https://developer.mozilla.org>
    <https://www.wikipedia.org>
-2. Splash image in Home page and clients images were taken from <https://www.pexels.com/>
+2. Splash image in the Home page and clients images were taken from <https://www.pexels.com/>
 
 ## Acknowledgements
 
-- Creating a README(How to put together a well documented README for your projects) by Code Institute
+- Creating a README(How to put together a well-documented README for your projects) by Code Institute
 - I would like to acknowledge my mentor Rory Patrick for his review and valuable feedback throughout the project.
 
-**This project was created for the Code Institute Module of User Centric front end development and acedemic purpose only. Also note that Portfolio examples, Skills and testimonials are hypothetical**
+**This project was created for the Code Institute Module of User-Centric Front-end development and academic purpose only. Also note that Portfolio examples, Skills, and testimonials are hypothetical**
 
 **Created by Tharindu Nadeeshan**
