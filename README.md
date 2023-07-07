@@ -380,6 +380,10 @@ Github pages were used to deploy the site. Selected the master Branch from the s
 
 The live link can be found from here : <https://hpatnadeeshan.github.io/MS-1>
 
+To deploy locally:
+
+clone or download website repository as a zip file or Github desktop method. Open the directory through a IDE and Run the website on a local server.
+
 ## Bugs
 
 I found several bugs while I was developing the website. Here How i identify and dubug the each bug.
@@ -421,10 +425,9 @@ All above bugs are found at final stage of developing. However more than 30 bugs
 
 ## Acknowledgements
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- Creating a README(How to put together a well documented README for your projects) by Code Institute
+- I would like to acknowledge my mentor Rory Patrick for his review and valuable feedback throughout the project.
 
-**This project was created for the Code Institute Module of User Centric front end development**
+**This project was created for the Code Institute Module of User Centric front end development and acedemic purpose only. Also note that Portfolio examples, Skills and testimonials are hypothetical**
 
 **Created by Tharindu Nadeeshan**
