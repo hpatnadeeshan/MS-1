@@ -393,7 +393,31 @@ All above bugs are found at final stage of developing. However more than 30 bugs
 
 ## Credits
 
-## Content
+### Content
+
+1. Social icons, Services icons and footer icons were taken from Font Awesome.
+2. Bootstrap framework used throughout the website.
+   - media quieries used in everypage
+   - Jumbotron component used in Home page
+   - Navbar used in every page
+   - nav-tabs in About page
+   - progress bars in About page
+   - pagination in Portfolio page
+   - Image Cards in Portfolio page
+   - Contact form in Contact page
+   - call in action buttons
+  
+3. Google Fonts used in the website (Roboto & Exo)
+4. Code for the Timeline in About page was taken from Mini project(the Resume Project) by Code Institute, Ireland.
+
+### Media
+
+1. Images for Portfolio page were taken from following websites
+   <https://www.getbootstrap.com>
+   <https://www.w3schools.com>
+   <https://developer.mozilla.org>
+   <https://www.wikipedia.org>
+2. Splash image in Home page and clients images were taken from <https://www.pexels.com/>
 
 ## Acknowledgements
 
