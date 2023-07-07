@@ -179,8 +179,8 @@ Navigational Elements:
 
 2. User-Friendly Navigation: The website have user-friendly navigation that makes it easy for visitors to find the information they need quickly.
 
-3. Home Page: The home page includes an overview of the web developer's services, skills, and experience.
-    Desktop view
+3. Home Page: The home page includes an overview of the web developer's services, skills, and experience.  
+   Desktop view
 
     ![Home page- Desktop view](./assets/features/landing-page-splash-image.jpg)
 
@@ -189,7 +189,7 @@ Navigational Elements:
     ![Home page- Mobile view](./assets/features/home-page-1-mobile.jpg)
     ![Home page- Mobile view](./assets/features/home-page-2-mobile.jpg)
 
-4. About Page: The About page provides more detailed information about my background, qualifications, and experience.
+4. About Page: The About page provides more detailed information about my background, qualifications, and experience.  
    Desktop view
     ![About Page- Desktop view](./assets/features/about-page.jpg)
 
@@ -197,8 +197,8 @@ Navigational Elements:
 
     ![About Page- Mobile view](./assets/features/about-mobile.jpg)
 
-5. Portfolio Page: The portfolio page showcases my past projects, including the technology used and the results achieved.
-    Desktop view
+5. Portfolio Page: The portfolio page showcases my past projects, including the technology used and the results achieved.  
+   Desktop view
 
     ![Portfolio Page- Desktop view](./assets/features/portfolio-page.jpg)
 
@@ -206,7 +206,7 @@ Navigational Elements:
 
     ![Portfolio Page- Mobile view](./assets/features/portfolio-page-mobile.jpg)
 
-6. Services Page: The services page provides a detailed list of my services, including the technology used and testimonials that include customer reviews or feedback that speaks to the quality of my work.
+6. Services Page: The services page provides a detailed list of my services, including the technology used and testimonials that include customer reviews or feedback that speaks to the quality of my work.  
     Desktop view
 
     ![Services Page- Desktop view](./assets/features/services-page-1.jpg)
@@ -218,7 +218,7 @@ Navigational Elements:
     ![Services Page- Mobile view](./assets/features/services-page-3-mobile.jpg)
 
 7. Contact Page: The contact page includes a contact form and my contact information, such as email, phone number, or social media links.  
-    Desktop view
+   Desktop view
 
     ![Contact Page- Desktop view](./assets/features/contact-page.jpg)
 
@@ -417,10 +417,12 @@ All the above bugs are found at the final stage of development. However, more th
 ### Media
 
 1. Images for the Portfolio page were taken from the following websites
-   <https://www.getbootstrap.com>
-   <https://www.w3schools.com>
-   <https://developer.mozilla.org>
-   <https://www.wikipedia.org>
+
+- <https://www.getbootstrap.com>
+- <https://www.w3schools.com>
+- <https://developer.mozilla.org>
+- <https://www.wikipedia.org>
+
 2. Splash image in the Home page and clients images were taken from <https://www.pexels.com/>
 
 ## Acknowledgements
