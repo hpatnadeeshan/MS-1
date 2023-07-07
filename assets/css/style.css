@@ -1018,8 +1018,8 @@ a.card-link {
 
 
 @media (min-width: 992px) {
-    @media (max-height: 720px) {
-        .transparent-footer {
+    @media (max-height: 600px) {
+        .home .transparent-footer {
             position: relative;
             align-items: flex-end;
             max-height: unset;
@@ -1029,6 +1029,20 @@ a.card-link {
 
         .background-container {
             overflow: visible;
+        }
+
+    }
+
+
+    @media (max-height: 750px) {
+
+        .about .transparent-footer,
+        .contact .transparent-footer,
+        .portfolio .transparent-footer {
+            position: relative;
+            align-items: flex-end;
+            max-height: unset;
+            padding-bottom: unset;
         }
     }
 }
