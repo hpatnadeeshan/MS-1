@@ -20,6 +20,15 @@ body {
     flex-direction: column;
 }
 
+.error-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    color: #ffffff;
+    background-color: #0d2333;
+}
 
 .background-container {
     position: relative;
