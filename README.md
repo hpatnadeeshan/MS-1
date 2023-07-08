@@ -295,6 +295,8 @@ I carefully checked the operation of all four browsers' buttons, links, forms, a
 
 I made sure that my website complied with the highest requirements for functionality, usability, and satisfaction among users by sticking to this comprehensive testing technique, which covered browser compatibility, responsiveness, code validation, accessibility, and performance optimization.
 
+I also added a 404 error page.If user encounter a broken or non-existent link on my website instead of seeing a generic browser error page, custom 404 error page provides a more user-friendly experience.
+
 ### Results and outcomes
 
 #### Testing User Stories
