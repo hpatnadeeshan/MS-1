@@ -5,6 +5,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
 
 
+/* ---------------------General styles-------------------- */
+
 html,
 body {
     overflow-x: hidden;
@@ -18,55 +20,6 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-}
-
-.error-page {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    text-align: center;
-    color: #ffffff;
-    background-color: #0d2333;
-}
-
-.background-container {
-    position: relative;
-    height: 100vh;
-    background-color: black;
-    overflow-y: auto;
-}
-
-
-@media (min-width: 992px) {
-    .background-container {
-        overflow: hidden;
-    }
-}
-
-
-.background-img {
-    position: absolute;
-    top: 160px;
-    left: 0;
-    width: 75%;
-    height: auto;
-    object-fit: cover;
-    object-position: center top;
-}
-
-@media (max-width: 991.98px) {
-    .background-img {
-        top: 0;
-        width: 100%;
-    }
-}
-
-
-.content a {
-    text-align: center;
-    align-content: center;
-    align-items: center;
 }
 
 
@@ -88,6 +41,21 @@ body {
 .contact {
     background-color: #BF95B9;
 }
+
+
+/* 404 page */
+
+
+.error-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    color: #ffffff;
+    background-color: #0d2333;
+}
+
 
 
 /* ---------------------navigation bar-------------------- */
@@ -153,6 +121,7 @@ body {
     margin-top: 20px;
 }
 
+/* Social icons */
 
 .social-icons {
     display: flex;
@@ -223,6 +192,45 @@ body {
 
 
 /* ---------------------section-landing page-------------------- */
+
+.background-container {
+    position: relative;
+    height: 100vh;
+    background-color: black;
+    overflow-y: auto;
+}
+
+
+@media (min-width: 992px) {
+    .background-container {
+        overflow: hidden;
+    }
+}
+
+
+.background-img {
+    position: absolute;
+    top: 160px;
+    left: 0;
+    width: 75%;
+    height: auto;
+    object-fit: cover;
+    object-position: center top;
+}
+
+@media (max-width: 991.98px) {
+    .background-img {
+        top: 0;
+        width: 100%;
+    }
+}
+
+
+.content a {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
 
 .jumbotron {
     color: #E6F4F1;
@@ -546,6 +554,7 @@ h3 {
     border-bottom: 1px solid #e59d23;
 }
 
+/* skills section */
 
 .progress-bar {
     background-color: #D8A31A;
